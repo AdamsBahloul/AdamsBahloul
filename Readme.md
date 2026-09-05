@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./group2.png" width="100%" alt="Profile Banner" style="border-radius:10px;"/>
+<a href="google.com"><img src="./Banner.png" width="100%" alt="Profile Banner" style="border-radius:10px;"/></a>
 
 </div>
 
